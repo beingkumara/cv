@@ -1,0 +1,292 @@
+    body {
+        font-family: 'Montserrat';
+        background-color: #F1EEE9;
+    }
+    
+    #introduction {
+        background-color: #82DBD8;
+        text-align: center;
+    }
+    
+    .intro {
+        background-color: #82DBD8;
+    }
+    
+    .intro-text {
+        color: #354259;
+        background-color: #82DBD8;
+        width: 60%;
+        margin: 20% auto auto;
+    }
+    
+    .nav-text {
+        color: #73777B;
+        /* margin-left: 30px; */
+        /* font-size: 1.2rem; */
+    }
+    
+    .name-heading {
+        font-family: 'Satisfy', cursive;
+        font-weight: bolder;
+        font-size: 6rem;
+        padding: 2rem 2rem;
+    }
+    
+    .hello-img {
+        background-color: #fefcfb;
+        padding: 7% 15%;
+    }
+    
+    .wave-hand {
+        width: 300px;
+    }
+    
+    .profile-img {
+        text-align: center;
+        margin: 2rem;
+        width: 50%;
+        border-radius: 100%;
+        /* height: 80%; */
+    }
+    
+    .profile-column {
+        text-align: center;
+        background-color: #fefcfb;
+        /* width: 100%; */
+    }
+    
+    .about-text {
+        text-align: center;
+        background-color: #82DBD8;
+        color: #fff;
+    }
+    
+    .about-head {
+        font-weight: bold;
+        line-height: 1.5;
+        margin: 5rem;
+    }
+    
+    #education {
+        background-color: #F1EEE9;
+    }
+    
+    .education-row {
+        text-align: center;
+        margin: 3rem;
+    }
+    
+    .education-div {
+        background-color: #F1EEE9;
+    }
+    
+    .institute {
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+    
+    .card-header {
+        font-size: 2.5rem;
+        font-weight: bold;
+    }
+    
+    .education-box {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    
+    #projects {
+        background-color: #82DBD8;
+    }
+    
+    .project {
+        background-color: #82DBD8;
+    }
+    
+    .project-slide {
+        background-color: #82DBD8;
+    }
+    
+    .my-projects {
+        background-color: #82DBD8;
+        margin-top: 2rem;
+        text-align: center;
+        font-size: 6rem;
+        /* margin-bottom: 0; */
+        font-family: 'Satisfy', cursive;
+        font-size: 4.5rem;
+        font-weight: bold;
+    }
+    
+    .project-head {
+        font-weight: bold;
+        text-align: center;
+        /* margin: 4rem auto; */
+        color: #354259;
+        font-size: 4rem;
+        /* width: 50%; */
+    }
+    
+    .project-text {
+        text-align: center;
+        padding: 6% 15%;
+    }
+    
+    .project-details {
+        text-align: center;
+        width: 80%;
+        margin: 2rem auto;
+    }
+    
+    .project-button {
+        margin-top: 3rem;
+        width: 20%;
+        text-align: center;
+    }
+    
+    .project-btn-text {
+        text-align: center;
+        margin: 1rem 0;
+        font-size: 2rem;
+    }
+    
+    .github-icon {
+        margin: 1rem;
+    }
+    
+    #contact {
+        background-color: #82DBD8;
+    }
+    
+    .contact-img {
+        width: 50%;
+        /* margin-top: 20%; */
+        margin-left: 20%;
+        margin-bottom: 10%;
+        padding-bottom: 5%;
+        text-align: center;
+    }
+    
+    .social {
+        background-color: #82DBD8;
+        /* width: 50%; */
+        /* height: 40rem; */
+        /* margin-top: 2rem; */
+    }
+    
+    .social-img {
+        width: 50%;
+        margin: 1.5rem 0;
+        border-radius: 100%;
+    }
+    
+    .hackerrank {
+        width: 60%;
+    }
+    
+    .contact-column {
+        background-color: #82DBD8;
+        text-align: center;
+    }
+    
+    .social-rows {
+        text-align: center;
+        margin-top: 3.5rem;
+    }
+    
+    #hobbies {
+        margin-top: 3rem;
+        background-color: #F1EEE9;
+        /* height: 40rem; */
+    }
+    
+    .hobbies-heading,
+    .contact-heading,
+    .live {
+        text-align: center;
+        background-color: #F1EEE9;
+        margin: 3.5rem;
+        /* margin-top: 0; */
+        margin-bottom: 0;
+        font-family: 'Satisfy', cursive;
+        font-size: 4.5rem;
+        font-weight: bold;
+        /* position: static; */
+    }
+    
+    .contact-heading {
+        margin-bottom: 10rem;
+        background-color: #82DBD8;
+    }
+    
+    .contact-row {
+        margin: 4rem;
+        margin-bottom: 0;
+    }
+    
+    .hobbie {
+        background-color: #F1EEE9;
+    }
+    
+    .hobby-img {
+        width: 50%;
+        border-radius: 100%;
+        margin: 6rem;
+        text-align: center;
+    }
+    
+    .cricket-img {
+        width: 50%;
+        /* height: 70%%; */
+        margin: 6rem;
+        text-align: center;
+    }
+    
+    .second-photo {
+        width: 70%;
+        padding: 10%;
+        margin-left: 4rem;
+        /* border-radius: 10%; */
+    }
+    
+    .hobby-text {
+        font-size: 1rem;
+        text-align: left;
+        /* font-weight: bold; */
+        width: 60%;
+        line-height: 1.5;
+        margin-left: 7rem;
+    }
+    
+    @media screen and (max-width:1080px) {
+        .social-img {
+            width: 30%;
+            margin: 1rem auto;
+        }
+        .name-heading {
+            margin: 1rem 1rem;
+            padding: 0;
+        }
+        .contact-heading {
+            margin-bottom: 2rem;
+        }
+        .hobby-img {
+            margin-left: 8rem;
+            margin-bottom: 0;
+        }
+        .second-photo {
+            margin-top: 0 rem;
+            margin-left: 6rem;
+            /* padding: 0; */
+        }
+        .project-button {
+            width: 30%;
+        }
+        .project-btn-text {
+            font-size: 1rem;
+            margin: 0;
+        }
+        .project-head {
+            font-size: 2rem;
+        }
+    }
