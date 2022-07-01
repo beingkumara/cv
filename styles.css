@@ -1,0 +1,83 @@
+body {
+    font-family: 'Montserrat';
+    background-color: #F6FBF4;
+    /* align-items: center; */
+}
+
+.header {
+    margin: 4rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.header-head {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.fa-share-nodes {
+    position: absolute;
+    right: 1rem;
+    color: #000;
+    height: 80%;
+    /* width: 60%; */
+    /* width: 300px;
+  border: 3px solid #73AD21; */
+    /* padding: 10px; */
+}
+
+.card {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 0;
+}
+
+.card-body {
+    /* width: 50%; */
+    text-align: center;
+}
+
+.card-title {
+    /* font-size: 2.5rem; */
+    font-weight: bold;
+}
+
+.opener {
+    margin: 1rem;
+    text-align: left;
+}
+
+.story-img {
+    /* margin-left: 1rem; */
+    width: auto
+}
+
+.img-row {
+    display: block;
+    margin: 1rem auto;
+    width: 80%;
+}
+
+.story {
+    text-align: left;
+    /* margin-left: rem; */
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: 1rem;
+    /* margin-left: 2rem; */
+    margin-bottom: 2rem;
+}
+
+.comment {
+    margin-left: 2rem;
+}
+
+.read-more {
+    text-align: right;
+    margin-right: 2rem;
+}
