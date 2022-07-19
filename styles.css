@@ -58,13 +58,16 @@
     .about-text {
         text-align: center;
         background-color: #82DBD8;
-        color: #fff;
+        color: #354259;
+        font-size: 1.2rem;
     }
     
     .about-head {
         font-weight: bold;
         line-height: 1.5;
-        margin: 5rem;
+        font-size: 1.5rem;
+        margin: 5rem 0rem;
+        /* width: 60%; */
     }
     
     #education {
@@ -256,6 +259,11 @@
         width: 60%;
         line-height: 1.5;
         margin-left: 7rem;
+    }
+    
+    .skill {
+        background-color: #73777B;
+        border-radius: 10%;
     }
     
     @media screen and (max-width:1080px) {
